@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Minecraft on Olerud Docs</title>
+		<link>http://localhost:1313/minecraft/</link>
+		<description>Recent content in Minecraft on Olerud Docs</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 28 Jul 2026 23:46:52 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/minecraft/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Joining the Server</title>
+				<link>http://localhost:1313/minecraft/joining-the-server/</link>
+				<pubDate>Tue, 28 Jul 2026 23:46:52 -0400</pubDate>
+				<guid>http://localhost:1313/minecraft/joining-the-server/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
