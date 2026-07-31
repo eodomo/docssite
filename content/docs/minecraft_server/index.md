@@ -45,7 +45,8 @@ Proximity voice chat in Bedrock works without any mods; instead, it runs through
 ![Accept the mic request](allow_mic.png)
 5. Sign in with your Minecraft username and the password you just created.
 
-If you have trouble joining, try putting a '.' before your username. I've seen it add a dot to the start for Bedrock players.
+> [!TIP]
+> If you have trouble joining, try putting a '.' before your username. I've seen it add a dot to the start for Bedrock players.
 
 ### Bedrock Limitations
 The server is running Java edition, so some Bedrock features you are used to may not work. For example, Java edition doesn't have emotes, so other players will not see if you use an emote.
