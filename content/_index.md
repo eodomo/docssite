@@ -4,4 +4,4 @@ draft = false
 title = 'Eric Olerud'
 +++
 
-Things that I thought you should know 🙂;
+Things that I thought you should know 🙂
