@@ -2,15 +2,15 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Olerud Docs"
+title = "Eric Olerud"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-[params.logo]
-  logoText = "Olerud Docs"
+#[params.logo]
+#logoText = "Eric Olerud"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"

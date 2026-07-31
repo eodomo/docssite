@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "terminal" # UNCOMMENT THIS LINE
+theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://docs.olerud.com"
 defaultContentLanguage = "en"
 
@@ -71,4 +71,8 @@ enableEmoji = true
 # TERMINAL theme
 [markup.highlight]
   noClasses = false
+
+# Hugo-book theme
+[markup.goldmark.renderer]
+  unsafe = true
 
