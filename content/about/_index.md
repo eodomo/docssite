@@ -8,5 +8,5 @@ layout = 'simple'
 I'm pretty sure I'm Eric.
 
 
-> [!quote] Yeah, he's Eric.
+> [!quote] He is my favorite husband.
 > ~ Eric's wife
