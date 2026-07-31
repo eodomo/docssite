@@ -5,5 +5,8 @@ title = 'About Eric'
 layout = 'simple'
 +++
 
+I'm pretty sure I'm Eric.
+
+
 > [!quote] Yeah, he's Eric.
 > ~ Eric's wife
