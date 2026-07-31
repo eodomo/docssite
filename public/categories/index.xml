@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Eric Olerud</title>
-    <link>https://docs.olerud.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Eric Olerud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 28 Jul 2026 23:46:52 -0400</lastBuildDate><atom:link href="https://docs.olerud.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 23:46:52 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Games</title>
-      <link>https://docs.olerud.com/categories/games/</link>
+      <link>http://localhost:1313/categories/games/</link>
       <pubDate>Tue, 28 Jul 2026 23:46:52 -0400</pubDate>
       
-      <guid>https://docs.olerud.com/categories/games/</guid>
+      <guid>http://localhost:1313/categories/games/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Minecraft</title>
-      <link>https://docs.olerud.com/categories/minecraft/</link>
+      <link>http://localhost:1313/categories/minecraft/</link>
       <pubDate>Tue, 28 Jul 2026 23:46:52 -0400</pubDate>
       
-      <guid>https://docs.olerud.com/categories/minecraft/</guid>
+      <guid>http://localhost:1313/categories/minecraft/</guid>
       <description></description>
       
     </item>
