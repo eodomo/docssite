@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minecraft on Eric Olerud</title>
-    <link>http://localhost:1313/categories/minecraft/</link>
+    <link>https://docs.olerud.com/categories/minecraft/</link>
     <description>Recent content in Minecraft on Eric Olerud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 28 Jul 2026 23:46:52 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 23:46:52 -0400</lastBuildDate><atom:link href="https://docs.olerud.com/categories/minecraft/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Joining the Minecraft server</title>
-      <link>http://localhost:1313/docs/minecraft_server/</link>
+      <link>https://docs.olerud.com/docs/minecraft_server/</link>
       <pubDate>Tue, 28 Jul 2026 23:46:52 -0400</pubDate>
       
-      <guid>http://localhost:1313/docs/minecraft_server/</guid>
+      <guid>https://docs.olerud.com/docs/minecraft_server/</guid>
       <description></description>
       
     </item>
