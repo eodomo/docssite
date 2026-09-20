@@ -7,7 +7,11 @@ categories = ['Video Games', 'Wardogs', 'Development', 'Go']
 
 I built a mortar trajectory calculator for [Wardogs](https://store.steampowered.com/app/1867240/WARDOGS/)! This is currently accessible at https://wardogs.olerud.com.
 
-![Mortar Calculator](mortar.png)
+{{< iframe
+  src="https://wardogs.olerud.com"
+  title="Wardogs Mortar Calculator"
+  height="600"
+>}}
 
 To use it, open the map in Wardogs, hover over your current position to get your coordinates, and hover over the target position to get the target's coordinates. Plug those into the calculator, and then adjust the mortar to the parameters listed at the bottom of the page.
 
