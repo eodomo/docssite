@@ -2,6 +2,7 @@
 date = '2026-09-20T00:55:25-04:00'
 draft = false
 title = 'Wardogs Mortar Calculator'
+categories = ['Video Games', 'Wardogs', 'Development', 'Go']
 +++
 
 I built a mortar trajectory calculator for [Wardogs](https://store.steampowered.com/app/1867240/WARDOGS/)! This is currently accessible at https://wardogs.olerud.com.

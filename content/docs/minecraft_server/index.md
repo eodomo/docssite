@@ -2,7 +2,7 @@
 date = '2026-07-28T23:46:52-04:00'
 draft = false
 title = 'Joining the Minecraft server'
-categories = ["Minecraft", "Games"]
+categories = ["Minecraft", "Video Games"]
 +++
 
 This server is set up to allow Java and Bedrock edition players to play together! In both cases, the server address is `minecraft.olerud.com`. Come join now!
