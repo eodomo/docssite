@@ -4,7 +4,7 @@ draft = false
 title = 'Wardogs Mortar Calculator'
 +++
 
-I built a mortar trajectory calculator for Wardogs! This is currently accessible at https://wardogs.olerud.com.
+I built a mortar trajectory calculator for [Wardogs](https://store.steampowered.com/app/1867240/WARDOGS/)! This is currently accessible at https://wardogs.olerud.com.
 
 ![Mortar Calculator](mortar.png)
 
