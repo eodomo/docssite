@@ -1,7 +1,5 @@
 services:
     hugosite:
-        image: hugo-ericolerudcom:latest
-
         build:
             context: .
             dockerfile: Dockerfile
